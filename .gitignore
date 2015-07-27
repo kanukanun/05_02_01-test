@@ -60,6 +60,15 @@ dlldata.c
 # Chutzpah Test files
 _Chutzpah*
 
+# Visual Studio C#
+*.sln
+*.csproj
+Rhino_Processing
+bin/
+obj/
+Prooerties/
+
+
 # Visual C++ cache files
 ipch/
 *.aps
